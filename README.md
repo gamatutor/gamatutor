@@ -1,2 +1,2 @@
 # GAE
-GAMA Animation Engine (GAE) – Tools / Engine Pembuat dan Player Animasi Pembelajaran Sederhana
+GAMA Animation Engine (GAE) – Engine Pembuat dan Player Animasi Pembelajaran Sederhana yang free dan open source
