@@ -1,0 +1,427 @@
+13
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+89
+13
+-999
+-999
+;-
+Buka file base yang telah 
+anda buat
+;
+0
+144
+400
+444
+pointermouse2.bmp
+59
+365
+-999
+-999
+;-
+Klik Reports
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard1.jpg
+;
+0
+40
+400
+340
+pointermouse2.bmp
+151
+132
+-999
+-999
+;-
+Klik pada Use Wizard to 
+Create Report
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard2.jpg
+;
+24
+56
+424
+356
+pointermouse16.bmp
+137
+119
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog Report Wizard 
+seperti ini
+;
+164
+84
+564
+384
+pointermouse2.bmp
+447
+199
+-999
+-999
+;-
+Pilih tabel atau query 
+yang akan digunakan oleh 
+Report Base yang anda 
+buat
+;
+164
+84
+564
+384
+pointermouse16.bmp
+291
+231
+-999
+-999
+;-
+Lalu akan muncul 
+field-field penyusun 
+tabel/query
+;
+164
+84
+564
+384
+pointermouse2.bmp
+301
+263
+-999
+-999
+;-
+Klik mouse sambil 
+menekan tombol Ctrl 
+pada keyboard untuk 
+memilih field 
+Id,Nama,Alamat
+;
+164
+84
+564
+384
+pointermouse2.bmp
+302
+276
+-999
+-999
+;-
+;
+164
+84
+564
+384
+pointermouse2.bmp
+300
+290
+-999
+-999
+;-
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard3.jpg
+;
+236
+140
+636
+440
+pointermouse2.bmp
+478
+277
+-999
+-999
+;-
+Klik tanda > untuk 
+memindahkan field 
+kedalam report base
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard4.jpg
+;
+208
+208
+608
+508
+pointermouse2.bmp
+450
+450
+-999
+-999
+;-
+Klik Next
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard5.jpg
+;
+192
+148
+592
+448
+pointermouse16.bmp
+372
+207
+-999
+-999
+;-
+Ketikkan nama field 
+baru jika anda ingin 
+mengubah nama field 
+anda pada tampilan 
+report
+;
+256
+292
+656
+592
+pointermouse2.bmp
+432
+449
+-999
+-999
+;-
+Klik Next
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard6.jpg
+;
+192
+140
+592
+440
+pointermouse16.bmp
+305
+180
+-999
+-999
+;-
+Pilih field yang akan 
+digunakan sebagai 
+grouping data / record 
+pada report
+;
+192
+140
+592
+440
+pointermouse2.bmp
+303
+216
+-999
+-999
+;-
+Dalam hal ini, Pilih Nama 
+sebagai field untuk 
+grouping 
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard7.jpg
+;
+280
+148
+680
+448
+pointermouse2.bmp
+476
+273
+-999
+-999
+;-
+Klik tanda > untuk 
+memindahkan field 
+kedalam daftar grouping
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard8.jpg
+;
+280
+108
+680
+408
+pointermouse2.bmp
+512
+198
+-999
+-999
+;-
+Field Nama digunakan 
+sebagai grouping 
+;
+184
+280
+584
+580
+pointermouse2.bmp
+429
+452
+-999
+-999
+;-
+Klik Next
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard9.jpg
+;
+284
+160
+684
+460
+pointermouse2.bmp
+553
+210
+-999
+-999
+;-
+;
+284
+160
+684
+460
+pointermouse2.bmp
+554
+271
+-999
+-999
+;-
+Pilih disini jika anda 
+ingin mengurutkan 
+record-record yang 
+ditampilkan pada report 
+base
+;
+204
+264
+604
+564
+pointermouse2.bmp
+427
+450
+-999
+-999
+;-
+Klik Next
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard10.jpg
+;
+92
+136
+492
+436
+pointermouse16.bmp
+293
+179
+-999
+-999
+;-
+Anda dapat memilih 
+layout data yang 
+ditampilkan pada report 
+base disini
+;
+248
+156
+648
+456
+pointermouse2.bmp
+332
+242
+-999
+-999
+;-
+Pilih Outline-Elegant 
+(sebagai contoh)
+;
+208
+148
+608
+448
+pointermouse16.bmp
+510
+179
+-999
+-999
+;-
+Layout untuk header dan 
+footer report dipilih 
+disini
+;
+208
+148
+608
+448
+pointermouse2.bmp
+523
+199
+-999
+-999
+;-
+Pilih Bubbles (sebagai 
+contoh)
+;
+212
+184
+612
+484
+pointermouse2.bmp
+429
+449
+-999
+-999
+;-
+Klik Next
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard11.jpg
+;
+156
+0
+556
+300
+pointermouse2.bmp
+324
+201
+-999
+-999
+;-
+Ketik nama report disini
+;
+272
+188
+672
+488
+pointermouse2.bmp
+550
+450
+-999
+-999
+;-
+Klik Finish
+-
+Membuat Report Base Menggunakan Wizard\Membuat Report Base Menggunakan Wizard12.jpg
+;
+76
+128
+476
+428
+pointermouse16.bmp
+185
+199
+-999
+-999
+;-
+Ini adalah report yang 
+anda buat menggunakan 
+report wizard
+;
+76
+284
+476
+584
+pointermouse16.bmp
+170
+417
+-999
+-999
+;-
+Ini adalah record-record 
+yang telah di-grouping 
+berdasarkan Nama
+.

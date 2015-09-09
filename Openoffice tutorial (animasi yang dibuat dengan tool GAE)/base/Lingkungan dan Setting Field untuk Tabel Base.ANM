@@ -1,0 +1,468 @@
+22
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base0.jpg
+;
+0
+52
+400
+352
+pointermouse16.bmp
+99
+95
+-999
+-999
+;-
+Buka file basisdata lalu 
+akan muncul tampilan 
+seperti ini
+;
+0
+0
+400
+300
+pointermouse16.bmp
+57
+10
+-999
+-999
+;-
+Ini adalah nama file 
+basisdata yang anda 
+buka
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base1.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+142
+131
+-999
+-999
+;-
+Untuk membuat tabel 
+berdasarkan spesifikasi 
+field dan propertinya 
+oleh user pada file DDL 
+& DSL
+;
+0
+0
+400
+300
+pointermouse16.bmp
+141
+150
+-999
+-999
+;-
+Membuat tabel 
+berdasarkan
+spesifikasi yang sudah 
+ditentukan dalam 
+program template
+;
+0
+0
+400
+300
+pointermouse16.bmp
+145
+163
+-999
+-999
+;-
+Membuat tabel dan 
+menentukan record yang
+akan ditampilkan
+;
+0
+0
+400
+300
+pointermouse2.bmp
+150
+134
+-999
+-999
+;-
+Klik Create Table in 
+Design View
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base2.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+110
+40
+-999
+-999
+;-
+Lalu muncul tampilan 
+untuk pendefinisian field 
+tabel database misalkan 
+untuk tabel gaji pegawai
+;
+0
+0
+400
+300
+pointermouse2.bmp
+31
+107
+-999
+-999
+;-
+Ketik No sebagai Field 
+Name
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base3.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+243
+108
+-999
+-999
+;-
+Klik pada Field Type
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base4.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+189
+164
+-999
+-999
+;-
+Pilih tipe integer
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base5.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+282
+109
+-999
+-999
+;-
+Isi Deskripsi field 
+dengan Nomor Urut 
+Pegawai
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base6.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+30
+121
+-999
+-999
+;-
+Ketik Id sebagai Field 
+Name
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base7.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+282
+124
+-999
+-999
+;-
+Isi Deskripsi field 
+dengan Nomor 
+Identifikasi Pegawai
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base8.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+31
+139
+-999
+-999
+;-
+Ketik Nama
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base9.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+283
+138
+-999
+-999
+;-
+Isi Deskripsi Field 
+dengan Nama Pegawai
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base10.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+32
+152
+-999
+-999
+;-
+Ketik Alamat
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base11.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+283
+156
+-999
+-999
+;-
+Isi deskripsi field 
+dengan Alamat Pegawai
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base12.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+8
+105
+-999
+-999
+;-
+Untuk menetapkan 
+Primary Key, arahkan 
+kursor pada baris field
+utama
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base13.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+14
+108
+-999
+-999
+;-
+Klik kanan mouse
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base14.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+53
+207
+-999
+-999
+;-
+Pilih Primary Key
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base15.jpg
+;
+0
+248
+400
+548
+pointermouse16.bmp
+196
+443
+-999
+-999
+;-
+Pilih No jika anda 
+ingin mengisi nilai 
+Primary Key secara 
+manual  
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base16.jpg
+;
+52
+212
+452
+512
+pointermouse16.bmp
+190
+444
+-999
+-999
+;-
+Pilih Yes jika anda ingin 
+nilai Primary Key 
+berubah secara otomatis
+;
+0
+80
+400
+380
+pointermouse16.bmp
+3
+107
+-999
+-999
+;-
+Primary Key telah di set 
+untuk field Nomor Urut 
+Pegawai
+;
+0
+12
+400
+312
+pointermouse2.bmp
+20
+63
+-999
+-999
+;-
+Untuk menyimpan tabel 
+yang telah dibuat, Klik 
+tombol Save
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base17.jpg
+;
+120
+176
+520
+476
+pointermouse16.bmp
+245
+218
+-999
+-999
+;-
+Lalu akan muncul 
+kotak dialog seperti ini
+;
+120
+176
+520
+476
+pointermouse2.bmp
+403
+255
+-999
+-999
+;-
+Ketik nama tabel 
+TABEL_GAJI_PEGAW
+AI
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base18.jpg
+;
+76
+180
+476
+480
+pointermouse2.bmp
+270
+284
+-999
+-999
+;-
+Klik OK
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base19.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+78
+8
+-999
+-999
+;-
+Tabel telah disimpan 
+dengan nama 
+TABEL_GAJI_PEGAW
+AI
+;
+0
+0
+400
+300
+pointermouse2.bmp
+11
+35
+-999
+-999
+;-
+Untuk melihat apakah 
+tabel telah dibuat, Klik 
+File
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base20.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+79
+124
+-999
+-999
+;-
+Pilih Close
+-
+Lingkungan dan Setting Field untuk Tabel Base\Lingkungan dan Setting Field untuk Tabel Base21.jpg
+;
+0
+132
+400
+432
+pointermouse16.bmp
+172
+274
+-999
+-999
+;-
+Tabel dengan nama 
+TABEL_GAJI_PEGAW
+AI telah berhasil dibuat 
+dan disimpan pada 
+database
+.

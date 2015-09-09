@@ -1,0 +1,119 @@
+6
+-
+Memotong dan memindahkan sel\Memotong dan memindahkan sel0.jpg
+;
+0
+112
+400
+412
+pointermouse2.bmp
+87
+168
+-999
+-999
+;-
+klik sel A1 dengan teks 
+Jadwal Kuliah supaya sel 
+aktif
+;
+0
+112
+400
+412
+pointermouse2.bmp
+87
+168
+-999
+-999
+;-
+klik kanan mouse
+-
+Memotong dan memindahkan sel\Memotong dan memindahkan sel1.jpg
+;
+0
+104
+400
+404
+pointermouse2.bmp
+118
+332
+-999
+-999
+;-
+Untuk memotong sel pilih
+Cut 
+-
+Memotong dan memindahkan sel\Memotong dan memindahkan sel2.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+80
+171
+-999
+-999
+;-
+teks Jadwal Kuliah telah 
+dipotong (cut)
+;
+0
+0
+400
+300
+pointermouse2.bmp
+251
+169
+-999
+-999
+;-
+Klik sel C1 sehingga 
+menjadi sel aktif
+-
+Memotong dan memindahkan sel\Memotong dan memindahkan sel3.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+246
+170
+-999
+-999
+;-
+Klik kanan mouse
+-
+Memotong dan memindahkan sel\Memotong dan memindahkan sel4.jpg
+;
+140
+164
+540
+464
+pointermouse2.bmp
+308
+372
+-999
+-999
+;-
+Pilih Paste untuk 
+memindahkan teks
+-
+Memotong dan memindahkan sel\Memotong dan memindahkan sel5.jpg
+;
+0
+112
+400
+412
+pointermouse16.bmp
+219
+167
+-999
+-999
+;-
+Sekarang teks Jadwal 
+Kuliah yang tadi berada 
+di sel A1 sekarang sudah
+pindah ke sel C1
+.

@@ -1,0 +1,452 @@
+10
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+63
+8
+-999
+-999
+;-
+Buka file base yang 
+sebelumnya anda buat
+;
+0
+0
+400
+300
+pointermouse16.bmp
+95
+80
+-999
+-999
+;-
+Lalu akan muncul 
+tampilan seperti ini
+;
+52
+0
+452
+300
+pointermouse2.bmp
+151
+150
+-999
+-999
+;-
+Klik pada Use Wizard to 
+Create Form
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard1.jpg
+;
+28
+0
+428
+300
+pointermouse16.bmp
+212
+21
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog Form Wizard 
+seperti ini
+;
+116
+20
+516
+320
+pointermouse2.bmp
+377
+104
+-999
+-999
+;-
+Pilih tabel atau query 
+yang akan digunakan oleh 
+Form
+;
+116
+20
+516
+320
+pointermouse16.bmp
+222
+134
+-999
+-999
+;-
+Lalu akan muncul daftar 
+field penyusun tabel atau 
+query
+;
+116
+20
+516
+320
+pointermouse2.bmp
+236
+167
+-999
+-999
+;-
+Klik mouse sambil 
+menekan tombol Ctrl 
+pada keyboard untuk 
+memilih field 
+Id,Nama,Alamat
+;
+116
+20
+516
+320
+pointermouse2.bmp
+232
+192
+-999
+-999
+;-
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard2.jpg
+;
+156
+88
+556
+388
+pointermouse2.bmp
+415
+169
+-999
+-999
+;-
+Klik tanda > untuk 
+memindahkan field tabel 
+/ query kedalam form
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard3.jpg
+;
+252
+68
+652
+368
+pointermouse16.bmp
+435
+149
+-999
+-999
+;-
+Ini adalah field-field 
+yang akan digunakan oleh 
+Form
+;
+140
+108
+540
+408
+pointermouse2.bmp
+370
+351
+-999
+-999
+;-
+Klik Next
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard4.jpg
+;
+96
+44
+496
+344
+pointermouse2.bmp
+234
+78
+-999
+-999
+;-
+Beri tanda checklist 
+disini jika anda 
+menginginkan form anda 
+memiliki sub form
+;
+124
+172
+524
+472
+pointermouse2.bmp
+369
+354
+-999
+-999
+;-
+Klik Next
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard5.jpg
+;
+196
+16
+596
+316
+pointermouse16.bmp
+300
+55
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog berikutnya 
+seperti ini
+;
+196
+16
+596
+316
+pointermouse16.bmp
+303
+191
+-999
+-999
+;-
+Disini anda dapat 
+menentukan model dan 
+tampilan form
+;
+196
+16
+596
+316
+pointermouse2.bmp
+469
+225
+-999
+-999
+;-
+Klik model form dengan 
+tampilan Data Sheet
+;
+272
+212
+672
+512
+pointermouse2.bmp
+446
+397
+-999
+-999
+;-
+Klik Next
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard6.jpg
+;
+136
+20
+536
+320
+pointermouse16.bmp
+229
+52
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog berikutnya
+;
+224
+152
+624
+452
+pointermouse2.bmp
+435
+393
+-999
+-999
+;-
+Klik Next
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard7.jpg
+;
+104
+44
+504
+344
+pointermouse2.bmp
+312
+164
+-999
+-999
+;-
+Pilih warna untuk form 
+anda disini 
+;
+240
+168
+640
+468
+pointermouse2.bmp
+432
+397
+-999
+-999
+;-
+Klik Next
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard8.jpg
+;
+120
+36
+520
+336
+pointermouse2.bmp
+319
+138
+-999
+-999
+;-
+Ketikkan nama form anda 
+disini
+;
+220
+132
+620
+432
+pointermouse2.bmp
+313
+204
+-999
+-999
+;-
+Pilih Work with the form 
+jika ingin melihat dan 
+bekerja dengan form 
+;
+308
+156
+708
+456
+pointermouse2.bmp
+528
+394
+-999
+-999
+;-
+Klik Finish
+-
+Membuat Form Base Menggunakan Wizard\Membuat Form Base Menggunakan Wizard9.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+114
+113
+-999
+-999
+;-
+Ini tampilan form yang 
+anda buat menggunakan 
+wizard
+;
+0
+304
+400
+604
+pointermouse16.bmp
+10
+530
+-999
+-999
+;-
+Tombol ini digunakan 
+untuk mencari record 
+dengan kriteria tertentu 
+pada form
+;
+92
+296
+492
+596
+pointermouse16.bmp
+222
+530
+-999
+-999
+;-
+Tombol ini digunakan 
+untuk kembali ke record 
+awal
+;
+92
+296
+492
+596
+pointermouse16.bmp
+249
+531
+-999
+-999
+;-
+Tombol ini digunakan 
+untuk kembali ke record 
+sebelumnya
+;
+92
+296
+492
+596
+pointermouse16.bmp
+273
+531
+-999
+-999
+;-
+Tombol ini digunakan 
+untuk menuju ke record 
+berikutnya
+;
+92
+296
+492
+596
+pointermouse16.bmp
+297
+532
+-999
+-999
+;-
+Tombol ini digunakan 
+untuk menuju ke record 
+terakhir
+;
+92
+296
+492
+596
+pointermouse16.bmp
+319
+527
+-999
+-999
+;-
+Tombol ini digunakan 
+untuk menambah record 
+baru
+;
+92
+296
+492
+596
+pointermouse16.bmp
+408
+532
+-999
+-999
+;-
+Tombol ini digunakan 
+untuk menghapus record 
+tertentu
+.

@@ -1,0 +1,207 @@
+11
+-
+Mengurutkan Data\Mengurutkan Data0.jpg
+;
+84
+92
+484
+392
+pointermouse2.bmp
+190
+184
+396
+223
+;-
+Pilih range sel mulai dari 
+sel B2 sampai D4
+-
+Mengurutkan Data\Mengurutkan Data1.jpg
+;
+72
+0
+472
+300
+pointermouse2.bmp
+235
+39
+-999
+-999
+;-
+Klik menu Data
+-
+Mengurutkan Data\Mengurutkan Data2.jpg
+;
+72
+0
+472
+300
+pointermouse2.bmp
+261
+107
+-999
+-999
+;-
+Pilih Sort
+-
+Mengurutkan Data\Mengurutkan Data3.jpg
+;
+176
+68
+576
+368
+pointermouse16.bmp
+300
+140
+-999
+-999
+;-
+Lalu akan tampil kotak 
+dialog Sort yang terdiri 
+dari dua tab halaman
+;
+156
+108
+556
+408
+pointermouse2.bmp
+231
+171
+-999
+-999
+;-
+Klik tab Sort Criteria. 
+Ada tiga kriteria yang 
+bisa digunakan untuk
+mengurutkan data
+;
+156
+108
+556
+408
+pointermouse2.bmp
+229
+171
+-999
+-999
+;-
+Default pengurutan 
+adalah berdasarkan 
+kolom
+;
+248
+100
+648
+400
+pointermouse2.bmp
+504
+222
+-999
+-999
+;-
+Pada kriteria pertama, 
+pilih Sort by Column C, 
+dan model pengurutan 
+Ascending
+-
+Mengurutkan Data\Mengurutkan Data4.jpg
+;
+184
+168
+584
+468
+pointermouse2.bmp
+244
+269
+-999
+-999
+;-
+-
+Mengurutkan Data\Mengurutkan Data5.jpg
+;
+184
+168
+584
+468
+pointermouse2.bmp
+504
+292
+-999
+-999
+;-
+Pada kriteria kedua, pilih 
+Then by Column D 
+dengan model pengurutan 
+Ascending
+-
+Mengurutkan Data\Mengurutkan Data6.jpg
+;
+184
+168
+584
+468
+pointermouse2.bmp
+268
+353
+-999
+-999
+;-
+-
+Mengurutkan Data\Mengurutkan Data7.jpg
+;
+184
+168
+584
+468
+pointermouse2.bmp
+501
+357
+-999
+-999
+;-
+Pada kriteria ketiga, 
+pilih Then by Column B 
+dengan model 
+pengurutan Ascending.
+-
+Mengurutkan Data\Mengurutkan Data8.jpg
+;
+184
+168
+584
+468
+pointermouse2.bmp
+319
+390
+-999
+-999
+;-
+-
+Mengurutkan Data\Mengurutkan Data9.jpg
+;
+184
+244
+584
+544
+pointermouse2.bmp
+437
+503
+-999
+-999
+;-
+Lalu Klik OK
+-
+Mengurutkan Data\Mengurutkan Data10.jpg
+;
+76
+104
+476
+404
+pointermouse16.bmp
+297
+197
+-999
+-999
+;-
+Hasil pengurutan akan 
+tampak seperti ini
+.

@@ -1,0 +1,281 @@
+3
+-
+Modifikasi diagram\Modifikasi diagram0.jpg
+;
+200
+228
+600
+528
+pointermouse2.bmp
+365
+365
+-999
+-999
+;-
+Klik sekali pada diagram, 
+maka akan muncul kotak 
+kecil warna hijau
+disekeliling diagram 
+-
+Modifikasi diagram\Modifikasi diagram1.jpg
+;
+204
+200
+604
+500
+pointermouse16.bmp
+373
+285
+-999
+-999
+;-
+Kotak kecil warna hijau
+disekeliling diagram 
+dapat digunakan untuk 
+mengubah ukuran 
+diagram
+;
+204
+200
+604
+500
+pointermouse2.bmp
+376
+399
+-999
+-999
+;-
+Untuk memodifikasi 
+diagram, klik dua kali 
+pada diagram
+-
+Modifikasi diagram\Modifikasi diagram2.jpg
+;
+204
+200
+604
+500
+pointermouse16.bmp
+371
+252
+-999
+-999
+;-
+Lalu muncul bingkai 
+berwarna abu 
+disekeliling diagram dan 
+muncul toolbar chart
+pada bagian atas
+;
+0
+0
+400
+300
+pointermouse16.bmp
+12
+96
+-999
+-999
+;-
+Ini adalah toolbar chart
+;
+0
+0
+400
+300
+pointermouse16.bmp
+11
+90
+-999
+-999
+;-
+Title On/Off untuk 
+menampilkan atau 
+menghilangkan judul
+diagram
+;
+0
+0
+400
+300
+pointermouse16.bmp
+39
+91
+-999
+-999
+;-
+Legend On/Off untuk 
+menampilkan atau 
+menghilangkan kotak
+kecil yang berisi 
+keterangan dari diagram
+;
+0
+0
+400
+300
+pointermouse16.bmp
+60
+89
+-999
+-999
+;-
+Axes Title On/Off 
+untuk menampilkan atau 
+menghilangkan judul
+pada axis X, axis Y dan 
+axis Z
+;
+0
+0
+400
+300
+pointermouse16.bmp
+88
+91
+-999
+-999
+;-
+Show/Hide Axis
+Description(s) untuk 
+menampilkan atau 
+menghilangkan nilai-nilai 
+dari axis X dan Y
+;
+0
+0
+400
+300
+pointermouse16.bmp
+112
+88
+-999
+-999
+;-
+Horizontal Grid
+On/Off untuk 
+menampilkan atau 
+menghilangkan 
+garis-garis
+horizontal pada grafik
+;
+0
+0
+400
+300
+pointermouse16.bmp
+135
+89
+-999
+-999
+;-
+Vertical Grid On/Off 
+untuk menampilkan atau 
+menghilangkan 
+garis-garis
+vertikal pada grafik
+;
+32
+24
+432
+324
+pointermouse16.bmp
+167
+89
+-999
+-999
+;-
+Chart Type untuk 
+mengubah kategori 
+diagram,tipe diagram dan 
+variant dari tiap-tiap 
+tipe diagram
+;
+32
+24
+432
+324
+pointermouse16.bmp
+193
+90
+-999
+-999
+;-
+AutoFormat Untuk 
+mengubah format 
+diagram
+;
+56
+36
+456
+336
+pointermouse16.bmp
+228
+89
+-999
+-999
+;-
+Chart Data untuk 
+mengedit data pada 
+diagram 
+;
+56
+36
+456
+336
+pointermouse16.bmp
+251
+91
+-999
+-999
+;-
+Data in Rows untuk 
+menampilkan diagram 
+yang susunan datanya 
+disusun berdasarkan 
+baris pada tabel
+;
+56
+36
+456
+336
+pointermouse16.bmp
+281
+89
+-999
+-999
+;-
+Data in Columns untuk 
+menampilkan diagram 
+yang datanya disusun 
+berdasarkan kolom pada 
+tabel
+;
+56
+36
+456
+336
+pointermouse16.bmp
+313
+88
+-999
+-999
+;-
+Scale Text untuk rescale 
+text pada diagram saat 
+ukuran diagram diubah
+;
+56
+36
+456
+336
+pointermouse16.bmp
+335
+91
+-999
+-999
+;-
+Reorganize Chart untuk 
+mengembalikan diagram 
+pada format defaultnya
+.

@@ -1,0 +1,199 @@
+4
+-
+Menghapus sel\Menghapus sel0.jpg
+;
+96
+100
+496
+400
+pointermouse2.bmp
+293
+237
+454
+236
+;-
+Klik sel D5, tarik sampai 
+sel F5
+-
+Menghapus sel\Menghapus sel1.jpg
+;
+184
+136
+584
+436
+pointermouse2.bmp
+478
+237
+-999
+-999
+;-
+Klik kanan mouse
+-
+Menghapus sel\Menghapus sel2.jpg
+;
+268
+172
+668
+472
+pointermouse2.bmp
+539
+319
+-999
+-999
+;-
+Pilih Delete
+-
+Menghapus sel\Menghapus sel3.jpg
+;
+200
+100
+600
+400
+pointermouse16.bmp
+340
+220
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog Delete Cells
+;
+200
+100
+600
+400
+pointermouse2.bmp
+241
+268
+-999
+-999
+;-
+Opsi ini akan menghapus 
+sel atau range sel yang 
+dipilih
+sehingga sel atau range 
+sel menjadi kosong
+;
+200
+100
+600
+400
+pointermouse2.bmp
+242
+268
+-999
+-999
+;-
+Sel-sel dibawahnya akan 
+naik dan menempati 
+sel-sel yang sudah kosong 
+tersebut
+;
+200
+100
+600
+400
+pointermouse2.bmp
+241
+291
+-999
+-999
+;-
+Opsi ini akan menghapus 
+sel atau range sel yang 
+dipilih
+sehingga sel atau range 
+sel menjadi kosong
+;
+200
+100
+600
+400
+pointermouse2.bmp
+241
+291
+-999
+-999
+;-
+Sel-sel disebelah 
+kanannya akan bergeser 
+kekiri menempati sel-sel 
+yang sudah kosong 
+tersebut
+;
+200
+100
+600
+400
+pointermouse2.bmp
+241
+313
+-999
+-999
+;-
+Opsi ini akan menghapus 
+satu atau beberapa baris 
+pada baris sel atau range 
+sel yang dipilih
+;
+200
+100
+600
+400
+pointermouse2.bmp
+241
+313
+-999
+-999
+;-
+Semua sel yang
+berada dibawahnya akan 
+naik menempati baris 
+yang sudah kosong
+;
+200
+100
+600
+400
+pointermouse2.bmp
+242
+335
+-999
+-999
+;-
+Opsi ini akan menghapus 
+satu atau beberapa 
+kolom pada kolom sel 
+atau range sel yang 
+dipilih
+;
+200
+100
+600
+400
+pointermouse2.bmp
+243
+335
+-999
+-999
+;-
+Semua sel yang berada di 
+sebelah kanannya akan 
+bergeser ke kiri 
+menempati kolom yang 
+sudah kosong
+;
+200
+100
+600
+400
+pointermouse2.bmp
+525
+261
+-999
+-999
+;-
+Setelah memilih opsi 
+pada kotak dialog Delete 
+Cells lalu Klik OK
+.

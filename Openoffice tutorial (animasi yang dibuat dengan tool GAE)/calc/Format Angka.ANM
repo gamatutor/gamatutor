@@ -1,0 +1,341 @@
+14
+-
+Format Angka\Format Angka0.jpg
+;
+16
+60
+416
+360
+pointermouse2.bmp
+103
+167
+-999
+-999
+;-
+Ketik angka 123
+-
+Format Angka\Format Angka1.jpg
+;
+252
+0
+652
+300
+pointermouse2.bmp
+497
+96
+-999
+-999
+;-
+Klik Currency untuk 
+mengubah angka menjadi 
+format mata uang
+-
+Format Angka\Format Angka2.jpg
+;
+16
+56
+416
+356
+pointermouse16.bmp
+68
+168
+-999
+-999
+;-
+Hasil pengubahan angka 
+menjadi format mata 
+uang 
+;
+184
+28
+584
+328
+pointermouse2.bmp
+516
+93
+-999
+-999
+;-
+Klik Percent untuk 
+mengubah angka menjadi 
+format persentase
+-
+Format Angka\Format Angka3.jpg
+;
+0
+88
+400
+388
+pointermouse16.bmp
+62
+164
+-999
+-999
+;-
+Hasil pengubahan angka 
+menjadi format 
+persentase
+;
+336
+32
+736
+332
+pointermouse2.bmp
+543
+92
+-999
+-999
+;-
+Klik Standard untuk 
+mengembalikan format 
+angka kebentuk standar
+-
+Format Angka\Format Angka4.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+69
+164
+-999
+-999
+;-
+Hasil pengembalian 
+format angka kebentuk
+standar
+;
+336
+32
+736
+332
+pointermouse2.bmp
+567
+93
+-999
+-999
+;-
+Klik Add Decimal Place
+Untuk menambahkan 
+desimal dibelakang koma
+-
+Format Angka\Format Angka5.jpg
+;
+0
+96
+400
+396
+pointermouse16.bmp
+77
+167
+-999
+-999
+;-
+Ini hasil penambahan
+desimal dibelakang koma
+;
+316
+8
+716
+308
+pointermouse2.bmp
+593
+93
+-999
+-999
+;-
+Klik Delete Decimal 
+Place untuk menghapus 
+angka desimal dibelakang
+koma
+-
+Format Angka\Format Angka6.jpg
+;
+0
+32
+400
+332
+pointermouse16.bmp
+68
+170
+-999
+-999
+;-
+Ini hasil penghapusan 
+angka desimal dibelakang
+koma
+;
+16
+60
+416
+360
+pointermouse2.bmp
+61
+168
+-999
+-999
+;-
+Untuk memformat angka 
+sebagai tanggal, Klik sel 
+A1 sebagai contoh
+;
+16
+60
+416
+360
+pointermouse2.bmp
+57
+169
+-999
+-999
+;-
+Klik kanan mouse
+-
+Format Angka\Format Angka7.jpg
+;
+0
+96
+400
+396
+pointermouse2.bmp
+125
+207
+-999
+-999
+;-
+Pilih Format Cells
+-
+Format Angka\Format Angka8.jpg
+;
+104
+144
+504
+444
+pointermouse2.bmp
+165
+177
+-999
+-999
+;-
+Pilih tab Numbers
+;
+32
+152
+432
+452
+pointermouse2.bmp
+157
+293
+-999
+-999
+;-
+Pada Tab Number, di 
+daftar Category pilih 
+Date
+-
+Format Angka\Format Angka9.jpg
+;
+124
+164
+524
+464
+pointermouse16.bmp
+303
+209
+-999
+-999
+;-
+Daftar format type Date 
+akan muncul pada kotak 
+pilihan Format
+;
+124
+164
+524
+464
+pointermouse2.bmp
+324
+300
+-999
+-999
+;-
+Pada kotak Format, pilih 
+31. Dec. 1999
+-
+Format Angka\Format Angka10.jpg
+;
+184
+304
+584
+604
+pointermouse2.bmp
+385
+514
+-999
+-999
+;-
+Klik OK
+-
+Format Angka\Format Angka11.jpg
+;
+0
+112
+400
+412
+pointermouse2.bmp
+72
+170
+-999
+-999
+;-
+Pada sel A1 ketik 31/12
+-
+Format Angka\Format Angka12.jpg
+;
+0
+112
+400
+412
+pointermouse2.bmp
+83
+166
+-999
+-999
+;-
+Lalu tekan Enter pada 
+keyboard
+-
+Format Angka\Format Angka13.jpg
+;
+0
+112
+400
+412
+pointermouse16.bmp
+60
+168
+-999
+-999
+;-
+Jika sel A1 berisi tanda 
+###, berarti sel 
+tersebut kurang lebar 
+untuk menampung data
+;
+0
+112
+400
+412
+pointermouse16.bmp
+59
+169
+-999
+-999
+;-
+Tarik garis untuk 
+menyesuaikan lebar sel.
+Tanggal akan berubah 
+sesuai format menjadi 31. 
+Dec. 2008
+.

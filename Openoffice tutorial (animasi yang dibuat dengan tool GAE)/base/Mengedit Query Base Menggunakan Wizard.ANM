@@ -1,0 +1,328 @@
+11
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+71
+10
+-999
+-999
+;-
+Buka file database anda 
+yang sebelumnya telah 
+anda buat
+;
+0
+0
+400
+300
+pointermouse16.bmp
+82
+87
+-999
+-999
+;-
+Lalu akan muncul 
+tampilan seperti ini
+;
+0
+0
+400
+300
+pointermouse2.bmp
+51
+220
+-999
+-999
+;-
+Lalu klik pada Queries
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard1.jpg
+;
+0
+68
+400
+368
+pointermouse2.bmp
+154
+151
+-999
+-999
+;-
+Klik pada Use Wizard to 
+Create Query
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard2.jpg
+;
+0
+68
+400
+368
+pointermouse16.bmp
+213
+108
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog Query Wizard 
+seperti ini
+;
+140
+84
+540
+384
+pointermouse2.bmp
+432
+193
+-999
+-999
+;-
+Pilih tabel yang akan 
+digunakan untuk query
+;
+140
+84
+540
+384
+pointermouse16.bmp
+289
+233
+-999
+-999
+;-
+Lalu akan muncul 
+field-field penyusun 
+tabel yang anda pilih
+;
+140
+84
+540
+384
+pointermouse2.bmp
+289
+257
+-999
+-999
+;-
+Klik pada Id,Nama, dan 
+Alamat sambil menekan 
+tombol Ctrl pada 
+keyboard
+;
+140
+84
+540
+384
+pointermouse2.bmp
+289
+271
+-999
+-999
+;-
+;
+140
+84
+540
+384
+pointermouse2.bmp
+290
+287
+-999
+-999
+;-
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard3.jpg
+;
+192
+116
+592
+416
+pointermouse2.bmp
+465
+283
+-999
+-999
+;-
+Lalu klik tanda > untuk 
+memilih field-field yang 
+akan digunakan query
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard4.jpg
+;
+248
+196
+648
+496
+pointermouse2.bmp
+430
+444
+-999
+-999
+;-
+Klik Next
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard5.jpg
+;
+248
+88
+648
+388
+pointermouse2.bmp
+542
+203
+-999
+-999
+;-
+Klik disini untuk memilih 
+field yang akan 
+diurutkan 
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard6.jpg
+;
+248
+88
+648
+388
+pointermouse2.bmp
+379
+247
+-999
+-999
+;-
+Pilih Field dari daftar
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard7.jpg
+;
+264
+12
+664
+312
+pointermouse2.bmp
+571
+191
+-999
+-999
+;-
+Pilih Ascending jika data 
+ingin diurutkan menaik 
+sesuai abjad
+;
+264
+12
+664
+312
+pointermouse2.bmp
+572
+215
+-999
+-999
+;-
+Pilih Descending jika 
+data ingin diurutkan 
+menurun sesuai abjad
+;
+264
+236
+664
+536
+pointermouse2.bmp
+533
+443
+-999
+-999
+;-
+Lalu klik Finish
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard8.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+71
+87
+-999
+-999
+;-
+Ini adalah tabel yang 
+berisi record-record 
+hasil query yang anda 
+buat
+;
+0
+0
+400
+300
+pointermouse16.bmp
+56
+105
+-999
+-999
+;-
+Field Nama diurutkan 
+Ascending (menaik) 
+sesuai spesifikasi yang 
+anda buat sebelumnya 
+;
+0
+0
+400
+300
+pointermouse2.bmp
+9
+38
+-999
+-999
+;-
+Klik File untuk menutup 
+jendela Query
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard9.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+73
+125
+-999
+-999
+;-
+Pilih Close
+-
+Mengedit Query Base Menggunakan Wizard\Mengedit Query Base Menggunakan Wizard10.jpg
+;
+0
+144
+400
+444
+pointermouse16.bmp
+223
+293
+-999
+-999
+;-
+Ini adalah Query yang 
+dibuat menggunakan Use 
+Wizard to Create Query
+;
+0
+144
+400
+444
+pointermouse2.bmp
+181
+294
+-999
+-999
+;-
+Klik dua kali pada query 
+untuk melihat hasil query
+.

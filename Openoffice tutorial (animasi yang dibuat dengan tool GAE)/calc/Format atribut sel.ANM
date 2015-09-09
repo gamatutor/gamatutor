@@ -1,0 +1,81 @@
+5
+-
+Format atribut sel\Format atribut sel0.jpg
+;
+0
+8
+400
+308
+pointermouse2.bmp
+118
+130
+-999
+-999
+;-
+Klik panah dropdown
+pada kotak nama sel
+-
+Format atribut sel\Format atribut sel1.jpg
+;
+0
+8
+400
+308
+pointermouse2.bmp
+58
+145
+-999
+-999
+;-
+Pilih Nama_Hari akan
+membuat sel A4 sampai 
+sel E4 menjadi range sel 
+aktif
+-
+Format atribut sel\Format atribut sel2.jpg
+;
+92
+4
+492
+304
+pointermouse2.bmp
+384
+94
+-999
+-999
+;-
+Tekan tombol Center 
+pada toolbar formatting
+;
+92
+4
+492
+304
+pointermouse2.bmp
+277
+95
+-999
+-999
+;-
+Tekan tombol Bold pada 
+toolbar formatting
+-
+Format atribut sel\Format atribut sel3.jpg
+;
+32
+20
+432
+320
+pointermouse16.bmp
+68
+215
+383
+221
+;-
+Range sel nama_hari 
+yaitu Senin-Jumat akan 
+memiliki text tebal dan 
+alignment center
+-
+Format atribut sel\Format atribut sel4.jpg
+.

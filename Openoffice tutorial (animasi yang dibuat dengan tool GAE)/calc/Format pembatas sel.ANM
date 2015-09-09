@@ -1,0 +1,151 @@
+9
+-
+Format pembatas sel\Format pembatas sel0.jpg
+;
+4
+104
+404
+404
+pointermouse2.bmp
+148
+217
+232
+219
+;-
+Klik sel B4 lalu tarik 
+mouse sampai ke sel C4 
+sehingga menjadi range 
+sel terpilih.
+-
+Format pembatas sel\Format pembatas sel1.jpg
+;
+0
+60
+400
+360
+pointermouse2.bmp
+234
+219
+-999
+-999
+;-
+Klik kanan mouse
+-
+Format pembatas sel\Format pembatas sel2.jpg
+;
+0
+60
+400
+360
+pointermouse2.bmp
+278
+257
+-999
+-999
+;-
+Pilih Format Cells
+-
+Format pembatas sel\Format pembatas sel3.jpg
+;
+68
+96
+468
+396
+pointermouse16.bmp
+232
+149
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog Format Cells
+;
+68
+96
+468
+396
+pointermouse2.bmp
+391
+180
+-999
+-999
+;-
+Pilih tab Borders
+-
+Format pembatas sel\Format pembatas sel4.jpg
+;
+208
+96
+608
+396
+pointermouse2.bmp
+351
+273
+-999
+-999
+;-
+Untuk style, pilih ukuran 
+garis 0,50 pt
+-
+Format pembatas sel\Format pembatas sel5.jpg
+;
+0
+92
+400
+392
+pointermouse2.bmp
+187
+239
+-999
+-999
+;-
+Pilih kotak default kedua
+-
+Format pembatas sel\Format pembatas sel6.jpg
+;
+0
+92
+400
+392
+pointermouse2.bmp
+215
+324
+-999
+-999
+;-
+Pada User-defined,
+klik bagian garis tengah 
+kotak sehingga
+muncul garis vertikal 
+ditengah kotak
+-
+Format pembatas sel\Format pembatas sel7.jpg
+;
+216
+256
+616
+556
+pointermouse2.bmp
+379
+509
+-999
+-999
+;-
+Klik OK untuk melihat 
+hasil
+-
+Format pembatas sel\Format pembatas sel8.jpg
+;
+4
+104
+404
+404
+pointermouse16.bmp
+167
+223
+-999
+-999
+;-
+Inilah hasil format 
+pembatas sel
+.

@@ -1,0 +1,36 @@
+2
+-
+Memilih sel dan range sel\Memilih sel dan range sel0.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+57
+170
+192
+225
+;-
+Klik pada sel A1. Tekan 
+terus tombol mouse 
+sambil menggesernya ke 
+arah sel B4 
+-
+Memilih sel dan range sel\Memilih sel dan range sel1.jpg
+;
+0
+120
+400
+420
+pointermouse16.bmp
+165
+218
+-999
+-999
+;-
+Range sel (A1:B4 ) sudah 
+terpilih dan sel B4 
+adalah sel yang aktif,
+seperti ini.
+.

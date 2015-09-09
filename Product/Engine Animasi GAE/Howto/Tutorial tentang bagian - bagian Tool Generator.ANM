@@ -1,0 +1,121 @@
+1
+-
+Tutorial tentang bagian - bagian Tool Generator\Tutorial tentang bagian - bagian Tool Generator0.jpg
+;
+72
+28
+472
+328
+pointermouse2.bmp
+175
+180
+-999
+-999
+;-
+Frame ini diisi 
+dengan capture layar 
+utama
+;
+360
+4
+760
+304
+pointermouse2.bmp
+539
+214
+-999
+-999
+;-
+Frame ini diisi capture 
+layar yang mengikuti 
+capture layar 
+sebelumnya
+;
+0
+272
+400
+572
+pointermouse2.bmp
+169
+425
+-999
+-999
+;-
+Frame ini berisi capture 
+layar utama yang 
+diperkecil
+;
+396
+304
+796
+604
+pointermouse2.bmp
+547
+477
+-999
+-999
+;-
+Ini adalah editor teks 
+tempat menuliskan 
+penjelasan tambahan dari 
+animasi tutorial yang 
+dibuat
+;
+0
+272
+400
+572
+pointermouse2.bmp
+350
+384
+-999
+-999
+;-
+Klik Insert Text untuk 
+menambahkan penjelasan 
+yang ditulis di editor 
+teks ke dalam animasi 
+tutorial
+;
+0
+272
+400
+572
+pointermouse2.bmp
+312
+433
+-999
+-999
+;-
+Tombol ini adalah tombol 
+untuk pindah ke frame 
+berikutnya
+;
+0
+272
+400
+572
+pointermouse2.bmp
+70
+432
+-999
+-999
+;-
+Tombol ini adalah tombol 
+untuk pindah ke frame 
+sebelumnya
+;
+0
+304
+400
+604
+pointermouse2.bmp
+72
+541
+-999
+-999
+;-
+Disini ditampilkan 
+kumpulan capture layar 
+penyusun animasi tutorial
+.

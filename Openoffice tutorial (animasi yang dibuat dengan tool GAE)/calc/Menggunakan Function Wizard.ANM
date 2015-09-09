@@ -1,0 +1,289 @@
+12
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard0.jpg
+;
+0
+84
+400
+384
+pointermouse2.bmp
+183
+219
+-999
+-999
+;-
+Klik pada sembarang sel 
+misalnya sel B4
+;
+20
+0
+420
+300
+pointermouse2.bmp
+149
+130
+-999
+-999
+;-
+Lalu klik pada 
+tombol Function Wizard
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard1.jpg
+;
+60
+64
+460
+364
+pointermouse16.bmp
+254
+104
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog Function Wizard
+;
+60
+64
+460
+364
+pointermouse16.bmp
+179
+171
+-999
+-999
+;-
+Anda dapat memilih 
+kategori fungsi disini
+;
+60
+64
+460
+364
+pointermouse16.bmp
+169
+177
+-999
+-999
+;-
+Ada berbagai kategori 
+fungsi yang dapat 
+digunakan sebagai 
+formula kalkulasi
+;
+60
+64
+460
+364
+pointermouse2.bmp
+271
+175
+-999
+-999
+;-
+Klik pada dropdown 
+untuk memilih kategori 
+fungsi / formula yang 
+akan diaplikasikan pada 
+sel
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard2.jpg
+;
+60
+64
+460
+364
+pointermouse2.bmp
+186
+279
+-999
+-999
+;-
+Pilih kategori fungsi 
+matematika (sebagai 
+contoh)
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard3.jpg
+;
+0
+156
+400
+456
+pointermouse2.bmp
+141
+364
+-999
+-999
+;-
+Pilih fungsi SUM untuk 
+menjumlahkan 
+angka-angka pada range 
+sel
+;
+324
+228
+724
+528
+pointermouse2.bmp
+554
+459
+-999
+-999
+;-
+Lalu klik Next
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard4.jpg
+;
+308
+164
+708
+464
+pointermouse2.bmp
+642
+253
+-999
+-999
+;-
+Klik disini untuk memilih 
+angka sel sebagai number 
+1
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard5.jpg
+;
+36
+40
+436
+340
+pointermouse16.bmp
+198
+95
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog untuk memasukkan 
+nama sel yang akan 
+dijumlahkan
+;
+36
+40
+436
+340
+pointermouse2.bmp
+100
+187
+-999
+-999
+;-
+Pilih sel A2
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard6.jpg
+;
+352
+48
+752
+348
+pointermouse2.bmp
+699
+120
+-999
+-999
+;-
+Klik disini untuk kembali 
+ke kotak dialog Function 
+Wizard
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard7.jpg
+;
+328
+176
+728
+476
+pointermouse2.bmp
+643
+279
+-999
+-999
+;-
+Klik disini untuk 
+mengisikan angka kedua 
+yang akan dijumlahkan
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard8.jpg
+;
+0
+60
+400
+360
+pointermouse2.bmp
+96
+253
+-999
+-999
+;-
+Pilih sel A6 sebagai 
+angka kedua yang akan 
+dijumlahkan
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard9.jpg
+;
+364
+44
+764
+344
+pointermouse2.bmp
+697
+121
+-999
+-999
+;-
+Klik disini untuk kembali 
+ke kotak dialog Function 
+Wizard
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard10.jpg
+;
+400
+252
+800
+552
+pointermouse16.bmp
+511
+300
+-999
+-999
+;-
+Jika anda ingin 
+menambahkan lebih dari 
+dua angka, Anda dapat 
+mengisi kotak number 3, 
+number 4, dst
+;
+400
+252
+800
+552
+pointermouse2.bmp
+654
+460
+-999
+-999
+;-
+Klik OK
+-
+Menggunakan Function Wizard\Menggunakan Function Wizard11.jpg
+;
+8
+112
+408
+412
+pointermouse2.bmp
+201
+219
+-999
+-999
+;-
+Hasil dari penjumlahan 
+A2 dan A6 akan muncul 
+di sel B4
+.

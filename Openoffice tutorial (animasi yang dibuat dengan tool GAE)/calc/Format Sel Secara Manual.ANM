@@ -1,0 +1,196 @@
+3
+-
+Format Sel Secara Manual\Format Sel Secara Manual0.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+220
+168
+-999
+-999
+;-
+Untuk memulai format 
+sel, pilih atau aktifkan 
+sel atau range sel yang 
+akan diformat
+;
+0
+0
+400
+300
+pointermouse2.bmp
+211
+170
+-999
+-999
+;-
+Klik kanan mouse
+-
+Format Sel Secara Manual\Format Sel Secara Manual1.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+293
+213
+-999
+-999
+;-
+Pilih Format Cells
+-
+Format Sel Secara Manual\Format Sel Secara Manual2.jpg
+;
+108
+108
+508
+408
+pointermouse16.bmp
+312
+146
+-999
+-999
+;-
+Lalu akan tampil kotak 
+dialog Format Cells yang 
+terdiri dari tujuh tab 
+Format cells
+;
+108
+108
+508
+408
+pointermouse16.bmp
+145
+173
+-999
+-999
+;-
+Untuk memformat 
+pengelompokkan 
+penggunaan angka
+(penomoran, mata uang, 
+persentase, tanggal, dll)
+;
+108
+108
+508
+408
+pointermouse16.bmp
+145
+173
+-999
+-999
+;-
+Juga bisa digunakan 
+untuk penggunaan
+angka desimal, pemakaian 
+tanda titik untuk ribuan
+;
+108
+108
+508
+408
+pointermouse16.bmp
+193
+170
+-999
+-999
+;-
+Untuk memformat isi sel. 
+Jenis font, ukuran font 
+dan untuk tulisan miring, 
+tebal atau yang standar.
+;
+108
+108
+508
+408
+pointermouse16.bmp
+240
+174
+-999
+-999
+;-
+Mengatur efek khusus 
+dari font pada isi sel. 
+Seperti macam-macam 
+jenis garis bawah,warna 
+font, dll 
+;
+108
+108
+508
+408
+pointermouse16.bmp
+317
+173
+-999
+-999
+;-
+Mengatur perataan text 
+secara horisontal (right, 
+left, center, filled dan 
+justified)
+;
+108
+108
+508
+408
+pointermouse16.bmp
+316
+173
+-999
+-999
+;-
+Dan juga untuk 
+perataan text 
+secara vertikal (middle, 
+top dan bottom) pada sel
+;
+100
+92
+500
+392
+pointermouse16.bmp
+372
+171
+-999
+-999
+;-
+Mengatur tipe-tipe 
+garis sel, ketebalan 
+garis,warna garis, jarak 
+spasi dari garis ke isi sel
+;
+100
+92
+500
+392
+pointermouse16.bmp
+437
+172
+-999
+-999
+;-
+Mengatur pemberian 
+warna dasar sel. Untuk 
+defaultnya adalah No fill
+;
+228
+104
+628
+404
+pointermouse16.bmp
+507
+174
+-999
+-999
+;-
+Mengatur pemberian 
+proteksi pada sel
+.

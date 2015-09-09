@@ -1,0 +1,365 @@
+15
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base0.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+83
+16
+-999
+-999
+;-
+Buka file database 
+anda lalu akan muncul 
+tampilan seperti ini
+;
+0
+0
+400
+300
+pointermouse2.bmp
+58
+219
+-999
+-999
+;-
+Klik Queries
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base1.jpg
+;
+4
+40
+404
+340
+pointermouse16.bmp
+147
+126
+-999
+-999
+;-
+Create Query in Design 
+View untul membuat 
+Query berdasarkan
+spesifikasi user
+;
+4
+40
+404
+340
+pointermouse16.bmp
+145
+142
+-999
+-999
+;-
+Use Wizard to Create 
+Query untuk membuat 
+query berdasarkan
+spesifikasi dalam 
+program template
+;
+4
+40
+404
+340
+pointermouse16.bmp
+142
+161
+-999
+-999
+;-
+Create Query in SQL 
+View untuk membuat 
+query menggunakan 
+perintah query
+secara langsung/teks
+;
+4
+40
+404
+340
+pointermouse2.bmp
+155
+128
+-999
+-999
+;-
+Klik pada Create Query 
+in Design View untuk 
+mengedit / 
+menambahkan Query 
+dengan Designer
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base2.jpg
+;
+200
+80
+600
+380
+pointermouse16.bmp
+303
+215
+-999
+-999
+;-
+Pilih tabel yang 
+dibutuhkan untuk query 
+;
+236
+36
+636
+336
+pointermouse2.bmp
+517
+200
+-999
+-999
+;-
+Lalu klik Add
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base3.jpg
+;
+0
+40
+400
+340
+pointermouse16.bmp
+53
+118
+-999
+-999
+;-
+Lalu akan muncul 
+tampilan desain tabel 
+seperti ini 
+;
+288
+44
+688
+344
+pointermouse2.bmp
+507
+225
+-999
+-999
+;-
+Lalu Klik Close
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base4.jpg
+;
+0
+124
+400
+424
+pointermouse2.bmp
+148
+349
+-999
+-999
+;-
+Pada dropdown ini, Pilih 
+Field pada tabel yang 
+akan digunakan untuk 
+query
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base5.jpg
+;
+16
+176
+416
+476
+pointermouse2.bmp
+131
+406
+-999
+-999
+;-
+Pilih Field Nama dari 
+tabel 
+TABEL_GAJI_PEGAW
+AI
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base6.jpg
+;
+0
+212
+400
+512
+pointermouse2.bmp
+149
+399
+-999
+-999
+;-
+Klik disini untuk 
+mengurutkan data hasil 
+query
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base7.jpg
+;
+0
+212
+400
+512
+pointermouse2.bmp
+102
+443
+-999
+-999
+;-
+Jika anda ingin 
+mengurutkan data hasil 
+query secara menurun, 
+maka pilih descending
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base8.jpg
+;
+0
+212
+400
+512
+pointermouse2.bmp
+115
+419
+-999
+-999
+;-
+Beri tanda checklist 
+disini untuk menampilkan 
+data hasil query
+;
+0
+0
+400
+300
+pointermouse2.bmp
+22
+63
+-999
+-999
+;-
+Kemudian klik tombol 
+Save
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base9.jpg
+;
+180
+52
+580
+352
+pointermouse16.bmp
+247
+215
+-999
+-999
+;-
+Lalu muncul kotak dialog 
+seperti ini
+;
+180
+52
+580
+352
+pointermouse2.bmp
+413
+254
+-999
+-999
+;-
+Ketikkan nama query 
+misalnya 
+QUERY_PEGAWAI
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base10.jpg
+;
+180
+52
+580
+352
+pointermouse2.bmp
+292
+287
+-999
+-999
+;-
+Klik OK
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base11.jpg
+;
+0
+20
+400
+320
+pointermouse2.bmp
+8
+35
+-999
+-999
+;-
+Klik File untuk menutup 
+jendela query
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base12.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+65
+126
+-999
+-999
+;-
+Pilih Close
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base13.jpg
+;
+48
+180
+448
+480
+pointermouse16.bmp
+212
+275
+-999
+-999
+;-
+Query telah disimpan 
+dengan nama 
+QUERY_PEGAWAI
+;
+0
+108
+400
+408
+pointermouse2.bmp
+178
+275
+-999
+-999
+;-
+Klik dua kali pada 
+QUERY_PEGAWAI 
+untuk melihat hasil query
+-
+Mengenal Lingkungan Query Base\Mengenal Lingkungan Query Base14.jpg
+;
+0
+0
+400
+300
+pointermouse16.bmp
+60
+118
+-999
+-999
+;-
+Ini adalah tabel hasil 
+query dari field Nama 
+yang diurutkan menurun 
+/ descending
+.

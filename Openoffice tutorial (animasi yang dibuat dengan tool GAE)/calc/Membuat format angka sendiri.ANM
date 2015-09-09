@@ -1,0 +1,150 @@
+9
+-
+Membuat format angka sendiri\Membuat format angka sendiri0.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+95
+170
+-999
+-999
+;-
+Klik kanan mouse
+-
+Membuat format angka sendiri\Membuat format angka sendiri1.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+192
+211
+-999
+-999
+;-
+Pilih Format Cells
+-
+Membuat format angka sendiri\Membuat format angka sendiri2.jpg
+;
+0
+0
+400
+300
+pointermouse2.bmp
+156
+177
+-999
+-999
+;-
+Pilih tab Number
+;
+24
+140
+424
+440
+pointermouse2.bmp
+159
+235
+-999
+-999
+;-
+Pada daftar Category 
+pilih User-defined
+-
+Membuat format angka sendiri\Membuat format angka sendiri3.jpg
+;
+80
+232
+480
+532
+pointermouse2.bmp
+173
+440
+-999
+-999
+;-
+Pada Format Code Ketik : 
+(00)­000-000000
+-
+Membuat format angka sendiri\Membuat format angka sendiri4.jpg
+;
+232
+280
+632
+580
+pointermouse2.bmp
+582
+437
+-999
+-999
+;-
+Klik tombol Edit 
+comment, akan muncul 
+kotak untuk memberi 
+nama format yang baru
+-
+Membuat format angka sendiri\Membuat format angka sendiri5.jpg
+;
+20
+260
+420
+560
+pointermouse2.bmp
+180
+467
+-999
+-999
+;-
+Lalu ganti user-defined
+dengan Telephone
+-
+Membuat format angka sendiri\Membuat format angka sendiri6.jpg
+;
+292
+264
+692
+564
+pointermouse2.bmp
+553
+442
+-999
+-999
+;-
+Klik tanda checklist hijau 
+untuk menyimpan format 
+baru
+-
+Membuat format angka sendiri\Membuat format angka sendiri7.jpg
+;
+292
+264
+692
+564
+pointermouse2.bmp
+381
+510
+-999
+-999
+;-
+Klik OK
+-
+Membuat format angka sendiri\Membuat format angka sendiri8.jpg
+;
+0
+136
+400
+436
+pointermouse16.bmp
+77
+166
+-999
+-999
+;-
+Angka 123 akan 
+mengikuti format menjadi 
+(00)­000-000123
+.

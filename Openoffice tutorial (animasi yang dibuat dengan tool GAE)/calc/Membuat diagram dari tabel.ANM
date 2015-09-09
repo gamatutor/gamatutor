@@ -1,0 +1,360 @@
+17
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel0.jpg
+;
+48
+68
+448
+368
+pointermouse2.bmp
+182
+184
+296
+185
+;-
+Pilih sel B2 sampai C2
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel1.jpg
+;
+48
+68
+448
+368
+pointermouse2.bmp
+210
+222
+-999
+-999
+;-
+Sambil menekan tombol 
+Ctrl, pilih sel B4
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel2.jpg
+;
+88
+120
+488
+420
+pointermouse2.bmp
+280
+224
+-999
+-999
+;-
+Sambil menekan tombol 
+Ctrl, pilih sel C4
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel3.jpg
+;
+4
+0
+404
+300
+pointermouse2.bmp
+110
+35
+-999
+-999
+;-
+Untuk membuat digram, 
+Klik Insert
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel4.jpg
+;
+16
+220
+416
+520
+pointermouse2.bmp
+151
+420
+-999
+-999
+;-
+Pilih Chart
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel5.jpg
+;
+68
+100
+468
+400
+pointermouse16.bmp
+179
+149
+-999
+-999
+;-
+Lalu akan tampil jendela
+AutoFormat Chart
+;
+68
+100
+468
+400
+pointermouse2.bmp
+141
+242
+-999
+-999
+;-
+Checklist pada kotak 
+First column as label
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel6.jpg
+;
+248
+180
+648
+480
+pointermouse2.bmp
+512
+416
+-999
+-999
+;-
+Klik Next
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel7.jpg
+;
+80
+104
+480
+404
+pointermouse16.bmp
+235
+178
+-999
+-999
+;-
+Lalu akan tampil kotak 
+dialog untuk memilih tipe 
+diagram
+;
+276
+168
+676
+468
+pointermouse2.bmp
+543
+258
+-999
+-999
+;-
+Pilih diagram ketiga pada 
+baris pertama, model 
+grafik vertikal
+;
+276
+168
+676
+468
+pointermouse2.bmp
+540
+394
+-999
+-999
+;-
+Untuk Data series, pilih 
+Colums
+;
+68
+176
+468
+476
+pointermouse2.bmp
+158
+395
+-999
+-999
+;-
+Checklist tanda Show 
+text elements in preview
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel8.jpg
+;
+328
+208
+728
+508
+pointermouse2.bmp
+533
+446
+-999
+-999
+;-
+Klik Next
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel9.jpg
+;
+200
+124
+600
+424
+pointermouse16.bmp
+337
+197
+-999
+-999
+;-
+Lalu akan tampil kotak 
+dialog untuk memilih 
+variant diagram
+;
+200
+124
+600
+424
+pointermouse2.bmp
+353
+267
+-999
+-999
+;-
+Pilih variant normal
+;
+324
+264
+724
+564
+pointermouse2.bmp
+553
+444
+-999
+-999
+;-
+Klik Next
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel10.jpg
+;
+160
+132
+560
+432
+pointermouse16.bmp
+340
+193
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog untuk membuat 
+display
+;
+160
+132
+560
+432
+pointermouse2.bmp
+464
+219
+-999
+-999
+;-
+Pada Chart title, ketik 
+Pembelian
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel11.jpg
+;
+160
+132
+560
+432
+pointermouse2.bmp
+343
+246
+-999
+-999
+;-
+Checklist kotak Legend
+;
+160
+132
+560
+432
+pointermouse2.bmp
+344
+312
+-999
+-999
+;-
+Checklist kotak X axis
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel12.jpg
+;
+160
+132
+560
+432
+pointermouse2.bmp
+490
+315
+-999
+-999
+;-
+Pada X axis titles, ketik 
+harga
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel13.jpg
+;
+160
+132
+560
+432
+pointermouse2.bmp
+345
+339
+-999
+-999
+;-
+Checklist Y axis
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel14.jpg
+;
+160
+132
+560
+432
+pointermouse2.bmp
+489
+341
+-999
+-999
+;-
+Pada Y axis titles, ketik 
+Jumlah
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel15.jpg
+;
+336
+252
+736
+552
+pointermouse2.bmp
+645
+443
+-999
+-999
+;-
+Tekan tombol Create 
+untuk membuat dan 
+melihat diagram
+-
+Membuat diagram dari tabel\Membuat diagram dari tabel16.jpg
+;
+184
+220
+584
+520
+pointermouse2.bmp
+383
+270
+-999
+-999
+;-
+Sesuaikan ukuran 
+diagram dengan menarik 
+kotak kecil warna hijau 
+yang berada disekeliling 
+diagram
+.

@@ -1,0 +1,261 @@
+13
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel0.jpg
+;
+172
+80
+572
+380
+pointermouse16.bmp
+235
+217
+-999
+-999
+;-
+Sel C4 akan diubah 
+lebarnya
+;
+84
+64
+484
+364
+pointermouse2.bmp
+322
+150
+-999
+-999
+;-
+Klik dua kali pada garis 
+pembatas antara kolom 
+yang dimaksud dengan 
+kolom sesudahnya
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel1.jpg
+;
+84
+64
+484
+364
+pointermouse16.bmp
+202
+217
+-999
+-999
+;-
+Sekarang lebar kolom 
+sesuai dengan besar entri
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel2.jpg
+;
+84
+64
+484
+364
+pointermouse2.bmp
+352
+221
+-999
+-999
+;-
+Pilih sel yang lain, 
+misalnya sel E4 berisi 
+entri Jumat
+;
+56
+28
+456
+328
+pointermouse2.bmp
+154
+36
+-999
+-999
+;-
+Lalu klik Format
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel3.jpg
+;
+76
+60
+476
+360
+pointermouse2.bmp
+196
+127
+-999
+-999
+;-
+Pilih Column
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel4.jpg
+;
+180
+48
+580
+348
+pointermouse2.bmp
+409
+122
+-999
+-999
+;-
+Pilih Width
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel5.jpg
+;
+148
+80
+548
+380
+pointermouse16.bmp
+310
+232
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog Column Width
+;
+148
+80
+548
+380
+pointermouse2.bmp
+302
+267
+-999
+-999
+;-
+Isikan width sesuai yang 
+anda inginkan
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel6.jpg
+;
+148
+80
+548
+380
+pointermouse2.bmp
+472
+267
+-999
+-999
+;-
+Klik OK
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel7.jpg
+;
+148
+80
+548
+380
+pointermouse16.bmp
+343
+221
+-999
+-999
+;-
+sel E4 berubah ukuran 
+lebarnya
+;
+28
+0
+428
+300
+pointermouse2.bmp
+156
+35
+-999
+-999
+;-
+Klik Format untuk 
+mengubah tinggi sel 
+sesuai keinginan
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel8.jpg
+;
+28
+0
+428
+300
+pointermouse2.bmp
+181
+105
+-999
+-999
+;-
+Pilih Row
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel9.jpg
+;
+260
+0
+660
+300
+pointermouse2.bmp
+434
+101
+-999
+-999
+;-
+Pilih Height
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel10.jpg
+;
+172
+80
+572
+380
+pointermouse16.bmp
+248
+226
+-999
+-999
+;-
+Lalu akan muncul kotak 
+dialog Row Height
+;
+172
+80
+572
+380
+pointermouse2.bmp
+299
+267
+-999
+-999
+;-
+Tentukan tinggi sel yang 
+anda inginkan dengan 
+mengisinya di kotak 
+Height
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel11.jpg
+;
+172
+80
+572
+380
+pointermouse2.bmp
+473
+264
+-999
+-999
+;-
+Klik OK
+-
+Set ukuran lebar dan tinggi sel\Set ukuran lebar dan tinggi sel12.jpg
+;
+172
+80
+572
+380
+pointermouse16.bmp
+346
+237
+-999
+-999
+;-
+Sel E4 berubah ukuran 
+tingginya
+.
