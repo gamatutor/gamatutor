@@ -58,8 +58,6 @@
 
 
 contributor : Lukman Heryawan
-              Jurusan Ilmu Komputer dan Elektronika
-              Fakultas Matematika dan Ilmu Pengetahuan Alam
-              Universitas Gadjah Mada  
+       
 
   
