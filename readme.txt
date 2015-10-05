@@ -34,7 +34,7 @@
 		     kedalam format MP3.	 
 
         B. Folder Openoffice tutorial (teks) 
-	   - Berisi tutorial - tutorial openoffice (base, calc, writer, impress)
+	   - Berisi tutorial - tutorial openoffice (base, calc)
              dalam format pdf (portable document format).
 
         C. Folder Openoffice tutorial (animasi yang dibuat dengan tool GAE) 
