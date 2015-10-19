@@ -57,9 +57,10 @@
                             ------enjoy------
 
 
-contributor : Lukman Heryawan
-              Jurusan Ilmu Komputer dan Elektronika
-              Fakultas Matematika dan Ilmu Pengetahuan Alam
-              Universitas Gadjah Mada  
+
+Bagi yang ingin berkontribusi mengembangkan dan mensosialisasikan GAE dapat menghubungi :
+
+lukmanh@ugm.ac.id atau www.gamatutor.id 
+              
 
   
