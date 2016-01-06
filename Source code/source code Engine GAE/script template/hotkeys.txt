@@ -1,5 +1,0 @@
-Send, s
-Send, r
-Send, c
-Send, p
-Send, se
