@@ -2,7 +2,7 @@
 
 
                         
-                               GAMA Animation Engine (GAE) – Tools / Engine Pembuat dan Player Animasi Pembelajaran Sederhana
+                               GAMA Animation Engine (GAE) â€“ Tools / Engine Pembuat dan Player Animasi Pembelajaran Sederhana
 
 
                               (ukuran optimal yang disarankan untuk file gambar atau resolusi layar komputer adalah 800 x 600) 
@@ -14,7 +14,7 @@
          
 
 2. Seluruh animasi (Howto player, Howto engine, Tutorial calc, Tutorial base)
-   dalam CD ini dibuat 100% menggunakan engine dari Tool GAE.
+   dalam folder aplikasi ini dibuat 100% menggunakan engine dari Tool GAE.
 
 
 3. Ada 4 folder utama dalam CD ini, yaitu :
